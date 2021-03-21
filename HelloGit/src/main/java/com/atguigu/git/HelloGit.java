@@ -10,5 +10,6 @@ public class HelloGit {
         System.out.println("傻逼叼你妈的");
         System.out.println("你他妈真是个啥子");
         System.out.println("创建分支");
+        System.out.println("分支添加");
     }
 }
