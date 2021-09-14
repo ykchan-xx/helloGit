@@ -15,6 +15,6 @@ public class HelloGit {
         System.out.println("好家伙");
         System.out.println("caonimde");
         System.out.println("bushiba");
-
+        System.out.println("在github添加的新语句");
     }
 }
